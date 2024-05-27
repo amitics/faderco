@@ -1,4 +1,4 @@
-# WordPress
+# Hello Motherfucker
 
 Welcome to the WordPress development repository! Please check out the [contributor handbook](https://make.wordpress.org/core/handbook/) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
@@ -29,9 +29,9 @@ You will need a basic understanding of how to use the command line on your compu
 
 You will need Node and npm installed on your computer. Node is a JavaScript runtime used for developer tooling, and npm is the package manager included with Node. If you have a package manager installed for your operating system, setup can be as straightforward as:
 
-* macOS: `brew install node`
+ur poor use windows
 * Windows: `choco install nodejs`
-* Ubuntu: `apt install nodejs npm`
+
 
 If you are not using a package manager, see the [Node.js download page](https://nodejs.org/en/download/) for installers and binaries.
 
@@ -145,16 +145,16 @@ Additionally, the "Use Rosetta for x86/AMD64 emulation on Apple Silicon" setting
 
 These are the default environment credentials:
 
-* Database Name: `wordpress_develop`
+* Database Name: `faderco_develop`
 * Username: `root`
 * Password: `password`
 
-To login to the site, navigate to http://localhost:8889/wp-admin.
+To login to the site, navigate to http://localhost:8889/afderco.
 
 * Username: `admin`
 * Password: `password`
 
-**Note:** With Codespaces, open the portforwarded URL from the ports tab in the terminal, and append `/wp-admin` to login to the site.
+**Note:** With Codespaces, open the portforwarded URL from the ports tab in the terminal, and append `/admin` to login to the site.
 
 To generate a new password (recommended):
 
