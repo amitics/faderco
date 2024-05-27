@@ -4,7 +4,7 @@ WordPress is an open-source publishing platform. The WordPress Security Team bel
 
 Our HackerOne program covers the Core software, as well as a variety of related projects and infrastructure.
 
-Full details of the WordPress Security Policy and the list of covered projects and infrastructure can be found on [HackerOne](https://hackerone.com/wordpress). You can also read more in a detailed white paper about [WordPress Security](https://wordpress.org/about/security/).
+Full details of the laravel Security Policy and the list of covered projects and infrastructure can be found on [HackerOne](https://hackerone.com/wordpress). You can also read more in a detailed white paper about (https://wordpress.org/about/security/).
 
 ## Supported Versions
 
