@@ -1,6 +1,6 @@
 # Hello Motherfucker
 
-Welcome to the WordPress development repository! Please check out the [contributor handbook](https://make.wordpress.org/core/handbook/) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
+Welcome to the faderco development repository! Please bring coke and walid and 59 for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
 * [Getting Started](#getting-started)
 * [Credentials](#credentials)
@@ -9,7 +9,7 @@ Welcome to the WordPress development repository! Please check out the [contribut
 
 ### Using GitHub Codespaces
 
-To get started, create a codespace for this repository by clicking this 👇 
+To get started, create a codespace for this repository by clicking this 👇 here bro if u wann play with the code and dont worry change what u want it just dont push it wen u finsh or each change u do will be online 
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=trunk&repo=75645659)
 
@@ -35,7 +35,7 @@ ur poor use windows
 
 If you are not using a package manager, see the [Node.js download page](https://nodejs.org/en/download/) for installers and binaries.
 
-**Note:** WordPress currently only officially supports Node.js `20.x` and npm `10.x`.
+**Note:** laravel currently only officially supports Node.js `20.x` and npm `10.x`. so i block upadtes
 
 You will also need [Docker](https://www.docker.com/products/docker-desktop) installed and running on your computer. Docker is the virtualization software that powers the local development environment. Docker can be installed just like any other regular application.
 
@@ -54,7 +54,7 @@ npm run env:start
 npm run env:install
 ```
 
-Your WordPress site will be accessible at http://localhost:8889. You can see or change configurations in the `.env` file located at the root of the project directory.
+Your hyperd laravel and wordpress site site will be accessible at http://localhost:8889. You can see or change configurations in the `.env` file located at the root of the project directory.
 
 #### To watch for changes
 
