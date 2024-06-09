@@ -1,6 +1,6 @@
 # Hello information technology department
 
-Welcome to the faderco development repository! Here you will find all the tech stack i used to build teh website dont panic the webiste is built on laravel and wordpress core so it is to handle you will find  information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
+Welcome to the faderco development repository! Here you will find all the tech stack i used to build the website dont panic the webiste is built on laravel and wordpress core so it is to handle you will find information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
 * [Getting Started](#getting-started)
 * [Credentials](#credentials)
