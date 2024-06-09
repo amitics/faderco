@@ -149,7 +149,8 @@ These are the default environment credentials:
 * Username: `root`
 * Password: `password`
 
-To login to the site, navigate to http://localhost:8889/afderco.
+To login to the site, navigate to http://localhost:8889/faderco.
+make sure port is open via cmd using netstat -an | find "LISTEN" or via linux using netstat -tuln
 
 * Username: `admin`
 * Password: `password`
