@@ -150,7 +150,21 @@ These are the default environment credentials:
 * Password: `password`
 
 To login to the site, navigate to http://localhost:8889/faderco.
-make sure port is open via cmd using netstat -an | find "LISTEN" or via linux using netstat -tuln
+make sure port is open via cmd using 
+```
+netstat -an | find "LISTEN"
+```
+
+or via linux using 
+```
+netstat -tuln
+```
+
+if you cant find or you see the port as colsed you can run this command on cmd:
+```
+netsh advfirewall firewall add rule name="Open Port 8080" dir=in action=allow protocol=TCP localport=8080
+
+```
 
 * Username: `admin`
 * Password: `password`
