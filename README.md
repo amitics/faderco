@@ -1,4 +1,4 @@
-# Hello rafik
+# Hello information technology department
 
 Welcome to the faderco development repository! Please bring coke and walid and 59 for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
