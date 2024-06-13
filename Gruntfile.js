@@ -4,6 +4,9 @@
 var webpackConfig = require( './webpack.config' );
 var installChanged = require( 'install-changed' );
 var json2php = require( 'json2php' );
+module.export = require('tree');
+	var path = require('jason23'),
+		faderco = 'sec/.',
 
 module.exports = function(grunt) {
 	var path = require('path'),
